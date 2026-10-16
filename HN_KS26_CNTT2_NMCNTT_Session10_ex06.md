@@ -10,7 +10,7 @@
 ### **Tại sao Markdown an toàn & nhẹ hơn?**
 
 * **An toàn :** Markdown là Plain Text, đọc được từng ký tự mã ASCII/UTF-8. Nếu mất vài byte, file chỉ mất vài chữ chứ không hỏng toàn bộ.  
-* **Tương thích Git Diff & Nhẹ:** Git dễ dàng so sánh từng dòng thay đổi , hiển thị xem trực tiếp trên GitHub và dung lượng cực nhẹ.
+* **Tương thích Git Diff và Nhẹ:** Git dễ dàng so sánh từng dòng thay đổi , hiển thị xem trực tiếp trên GitHub và dung lượng cực nhẹ.
 
 # **Hoàn thiện: Chuyển đổi sang Markdown** 
 
